@@ -5,3 +5,4 @@ haha~~haha
 Creating a new branch is quick and simple.
 -------------------------------------
 A new branch which name is [dev].
+some bugs needs to mark.
